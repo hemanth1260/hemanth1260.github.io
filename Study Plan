@@ -1,7 +1,12 @@
 1. Pentesterlab  (10:30 am to 12 pm)
-2. Portswigger academy (2 pm to 3 pm)
-3. Hackerone reports disclosed (On daily basis) (10 pm to 11 pm)
-4. Each bug type research (Source : Medium articles , Youtube, Hacker one reports and practise hands on labs availalbe online) (5pm - 6pm)
+2. Each bug type research (2 pm - 3:30pm )
+Approach for each bug type:
+  1. Websecacademy
+  2. Medium articles 
+  3. twitter
+  4. Youtube vedios
+  5. Pentesterlab
+  6. Pentesterland reports
       1) SSRF
       2) IDOR
       3) XSS
@@ -10,10 +15,9 @@
       6) Subdomain takeover
       7) Bussiness logic issues
       8) SQLI
- 5. Live hacking on real targets (11 pm to 2 am)
- 
- Weekends:
- 
- 1. Tryhackme (Saturday)
- 2. Point4 research on each Vulnerability (Sunday)
+      
+  3. Javascript codeacademy
+  4. Python course from Udemy 11 pm to 1 pm
+  5. Cybermentor complete Windows and Linux priv escalation.
+  6. Tryhackme
 
