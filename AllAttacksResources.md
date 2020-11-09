@@ -1,3 +1,6 @@
+Recommended for all beginner :
+https://vulp3cula.gitbook.io/hackers-grimoire/exploitation/web-application
+
 Web Cache Poisoning :
 
 https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/controlling-the-cache-key.html
