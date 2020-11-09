@@ -1,3 +1,9 @@
+Learning Linux: Best resources:
+ https://linuxjourney.com
+ https://overthewire.org/wargames/bandit/
+ https://linuxsurvival.com
+ https://www.youtube.com/playlist?list=PLBf0hzazHTGMh2fe2MFf3lCgk0rKmS2by
+
 Recommended for all beginner :
 https://vulp3cula.gitbook.io/hackers-grimoire/exploitation/web-application
 
