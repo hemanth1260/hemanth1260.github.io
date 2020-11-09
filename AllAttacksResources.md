@@ -3,6 +3,7 @@ Learning Linux: Best resources:
  https://overthewire.org/wargames/bandit/
  https://linuxsurvival.com
  https://www.youtube.com/playlist?list=PLBf0hzazHTGMh2fe2MFf3lCgk0rKmS2by
+ guide.bashacademy  (useful for bash scripting)
 
 Recommended for all beginner :
 https://vulp3cula.gitbook.io/hackers-grimoire/exploitation/web-application
